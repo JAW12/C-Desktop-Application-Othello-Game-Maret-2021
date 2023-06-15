@@ -1,0 +1,20 @@
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\bin\Debug\t3.exe.config
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\bin\Debug\t3.exe
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\bin\Debug\t3.pdb
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\obj\Debug\t3.csprojResolveAssemblyReference.cache
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\obj\Debug\t3.Form1.resources
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\obj\Debug\t3.Properties.Resources.resources
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\obj\Debug\t3.csproj.GenerateResource.Cache
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\obj\Debug\t3.exe
+E:\KULIAH STTS\SEMESTER 6\TUTOR\PV\MINGGU 3\t3\t3\obj\Debug\t3.pdb
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\bin\Debug\t3.exe.config
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\bin\Debug\t3.exe
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\bin\Debug\t3.pdb
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.csproj.AssemblyReference.cache
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.csproj.SuggestedBindingRedirects.cache
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.Form1.resources
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.Properties.Resources.resources
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.csproj.GenerateResource.cache
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.csproj.CoreCompileInputs.cache
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.exe
+E:\JEM\BAHAN RESUME & PORTOFOLIO\KULIAH\PEMROGRAMAN VISUAL - Semester 2 - Maret April Mei 2019\C# Desktop Application Othello Game Maret 2021\t3\obj\Debug\t3.pdb
